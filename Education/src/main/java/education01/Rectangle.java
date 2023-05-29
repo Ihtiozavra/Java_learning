@@ -1,3 +1,5 @@
+package education01;
+
 public class Rectangle {
 
     public double a;

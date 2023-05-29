@@ -1,3 +1,5 @@
+package education01;
+
 public class MyFirstProgram {
     public static void main(String[] args) {
         Square s = new Square(5);

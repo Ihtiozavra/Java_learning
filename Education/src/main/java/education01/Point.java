@@ -1,3 +1,5 @@
+package education01;
+
 public class Point {
     public double x;
     public double y;

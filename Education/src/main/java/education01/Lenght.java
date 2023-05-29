@@ -1,3 +1,5 @@
+package education01;
+
 public class Lenght {
 
     public static void main (String[] Args) {
